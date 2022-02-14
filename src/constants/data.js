@@ -21,6 +21,11 @@ const wines = [
     price: '$26',
     tags: 'IE | 750 ml',
   },
+  {
+    title: 'La Vieillw Rose',
+    price: '$44',
+    tags: 'FR | 750 ml',
+  },
 ];
 
 const cocktails = [
